@@ -10,7 +10,7 @@
       "file": "fantasy-sword.zip",
       "thumbnail": "fantasy-sword.png",
       "size": "2.4 MB",
-      "downloads": 0
+      "downloads": 56
     },
     {
       "id": "space-ship",
@@ -22,7 +22,8 @@
       "file": "space-ship.zip",
       "thumbnail": "space-ship.png",
       "size": "5.1 MB",
-      "downloads": 0
+      "downloads": 100
     }
   ]
+
 }
