@@ -1,0 +1,28 @@
+{
+  "assets": [
+    {
+      "id": "fantasy-sword",
+      "name": "Fantasy Sword",
+      "author": "K1sh-M1sh",
+      "description": "3D sword model for fantasy games",
+      "category": "3D Models",
+      "version": "1.0",
+      "file": "fantasy-sword.zip",
+      "thumbnail": "fantasy-sword.png",
+      "size": "2.4 MB",
+      "downloads": 0
+    },
+    {
+      "id": "space-ship",
+      "name": "Space Ship",
+      "author": "K1sh-M1sh", 
+      "description": "Sci-fi spaceship model",
+      "category": "3D Models",
+      "version": "1.0",
+      "file": "space-ship.zip",
+      "thumbnail": "space-ship.png",
+      "size": "5.1 MB",
+      "downloads": 0
+    }
+  ]
+}
