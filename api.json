@@ -1,26 +1,43 @@
 {
   "result": [
     {
-      "asset_id": "char_001",
+      "asset_id": 1,
       "title": "RL Character Pack",
       "author": "KishMish",
-      "author_id": "1",
+      "author_id": 1,
       "version": 1,
       "version_string": "1.0.0",
       "category_id": 1,
       "cost": "Free",
-      "description": "3D character models for RL Engine",
+      "description": "Character assets for RL Engine",
       "download_url": "https://github.com/Kish-Mish122/real-engine-assets/raw/main/releases/character_pack.zip",
       "browse_url": "https://github.com/Kish-Mish122/real-engine-assets",
       "download_hash": "",
       "icon_url": "https://raw.githubusercontent.com/Kish-Mish122/real-engine-assets/main/icon.png",
-      "icon_url_2x": "https://raw.githubusercontent.com/Kish-Mish122/real-engine-assets/main/icon.png"
+      "support": "community"
+    },
+    {
+      "asset_id": 2,
+      "title": "RL Environment Pack",
+      "author": "KishMish",
+      "author_id": 1,
+      "version": 1,
+      "version_string": "1.0.0",
+      "category_id": 1,
+      "cost": "Free",
+      "description": "Environment assets for RL Engine",
+      "download_url": "https://github.com/Kish-Mish122/real-engine-assets/raw/main/releases/environment_pack.zip",
+      "browse_url": "https://github.com/Kish-Mish122/real-engine-assets",
+      "download_hash": "",
+      "icon_url": "https://raw.githubusercontent.com/Kish-Mish122/real-engine-assets/main/icon.png",
+      "support": "community"
     }
   ],
   "categories": [
     {
       "id": 1,
-      "name": "RL Assets"
+      "name": "RL Assets",
+      "count": 2
     }
   ]
 }
