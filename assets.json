@@ -23,7 +23,20 @@
       "thumbnail": "space-ship.png",
       "size": "5.1 MB",
       "downloads": 100
+    },
+    {
+      "id": "image",
+      "name": "TEST IMAGE",
+      "author": "K1sh-M1sh", 
+      "description": "TEST IMAGE",
+      "category": "3D Models",
+      "version": "1.0",
+      "file": "image.zip",
+      "thumbnail": "space-ship.png",
+      "size": "5.1 MB",
+      "downloads": 100
     }
   ]
 
 }
+
